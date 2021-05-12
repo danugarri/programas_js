@@ -1,4 +1,4 @@
 # programas_js
-Different programs develop using javaScript
+Different programs developed using javaScript
 
 
